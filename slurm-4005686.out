@@ -1,0 +1,16 @@
+2026-01-27 13:55:22,939 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.0.49.195:43099'
+2026-01-27 13:55:23,521 - distributed.worker - INFO -       Start worker at:    tcp://10.0.49.195:38847
+2026-01-27 13:55:23,521 - distributed.worker - INFO -          Listening to:    tcp://10.0.49.195:38847
+2026-01-27 13:55:23,521 - distributed.worker - INFO -           Worker name:             SLURMCluster-0
+2026-01-27 13:55:23,521 - distributed.worker - INFO -          dashboard at:          10.0.49.195:44661
+2026-01-27 13:55:23,521 - distributed.worker - INFO - Waiting to connect to:      tcp://10.0.53.5:45965
+2026-01-27 13:55:23,521 - distributed.worker - INFO - -------------------------------------------------
+2026-01-27 13:55:23,521 - distributed.worker - INFO -               Threads:                          1
+2026-01-27 13:55:23,521 - distributed.worker - INFO -                Memory:                  59.60 GiB
+2026-01-27 13:55:23,521 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space-2163/worker-1e0hy4yh
+2026-01-27 13:55:23,521 - distributed.worker - INFO - -------------------------------------------------
+2026-01-27 13:55:23,549 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-01-27 13:55:23,549 - distributed.worker - INFO -         Registered to:      tcp://10.0.53.5:45965
+2026-01-27 13:55:23,549 - distributed.worker - INFO - -------------------------------------------------
+2026-01-27 13:55:23,549 - distributed.core - INFO - Starting established connection to tcp://10.0.53.5:45965
+[2026-01-27T15:55:47.758] error: *** JOB 4005686 ON cerebrogpu04 CANCELLED AT 2026-01-27T15:55:47 DUE TO TIME LIMIT ***
